@@ -1479,11 +1479,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\berkay.karakose\\source\\repos\\deneme\\deneme\\deneme.csproj",
+      "projectUniqueName": "C:\\Users\\berkay.karakose\\Documents\\GitHub\\School-Administration\\SchoolSystem\\src\\backend\\deneme\\deneme\\deneme.csproj",
       "projectName": "deneme",
-      "projectPath": "C:\\Users\\berkay.karakose\\source\\repos\\deneme\\deneme\\deneme.csproj",
+      "projectPath": "C:\\Users\\berkay.karakose\\Documents\\GitHub\\School-Administration\\SchoolSystem\\src\\backend\\deneme\\deneme\\deneme.csproj",
       "packagesPath": "C:\\Users\\berkay.karakose\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\berkay.karakose\\source\\repos\\deneme\\deneme\\obj\\",
+      "outputPath": "C:\\Users\\berkay.karakose\\Documents\\GitHub\\School-Administration\\SchoolSystem\\src\\backend\\deneme\\deneme\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\berkay.karakose\\AppData\\Roaming\\NuGet\\NuGet.Config",

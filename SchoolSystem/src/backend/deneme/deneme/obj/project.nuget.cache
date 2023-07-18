@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CMXMeq2wjtakGHjFP2z6MvZ8BH+DjJiLifzNLZfqj9WcAvZeVst5hyE3a5Dt9AfT9GwlGvOpgcq60wzckR1U6g==",
+  "dgSpecHash": "lMBftqZdLmo7ejSDWFSmWm4j41mAtpVCrRlPu8VFSBoYmc0XPbRs6v3IfiqlGeyUV7hI8FTWzC4kDMcE3Vmtcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berkay.karakose\\source\\repos\\deneme\\deneme\\deneme.csproj",
+  "projectFilePath": "C:\\Users\\berkay.karakose\\Documents\\GitHub\\School-Administration\\SchoolSystem\\src\\backend\\deneme\\deneme\\deneme.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\berkay.karakose\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\berkay.karakose\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
